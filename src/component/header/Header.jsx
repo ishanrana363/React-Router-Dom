@@ -8,6 +8,7 @@ const Header = () => {
         <Link to={"/user"}  className='mx-5' >User</Link>
         <Link to={"/about"}   className='mx-5' >About</Link>
         <Link to={"/contact"}  Link className='mx-5'>Contack</Link>
+        <Link to={"/posts"}  Link className='mx-5'>Posts</Link>
     </div>
   )
 }
